@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+    <string name="q1">1. What is the name of the space between your thumb and index finger?</string>
+    <string name="q2">2. One who can speak two languages</string>
+    <string name="q3">3. One who talk in sleep</string>
+    <string name="q4">4. Choose all the carbohydrates:</string>
+    <string name="q5">5. Which of the following is present in outer space?</string>
+    <string name="q6">6. In Alice’s Adventures in Wonderland, which game was played by the Queen of Hearts using hedgehogs as balls?</string>
+    <string name="q7">7. With which unfortunate incident would you associate the warplane Enola Gay?</string>
+    <string name="q8">8. Odhra Magadha is the precursor to which Indian dance form?</string>
+    <string name="q9">9. Which Asian mountain is also known as the Savage Mountain due to the extreme difficulty of ascent?</string>
+    <string name="q10">10.  In India, the train Lifeline Express is a </string>
+
+</resources>
+
